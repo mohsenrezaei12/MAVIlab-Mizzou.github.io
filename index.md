@@ -3,7 +3,7 @@
 
 # MAVI Lab at Mizzou
 
-MAVI Lab at University of Missouri 
+MAVI Lab at University of Missouri. 
 
 {% include section.html %}
 
