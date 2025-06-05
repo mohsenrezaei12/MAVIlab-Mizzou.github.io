@@ -11,7 +11,7 @@ MAVI Lab at University of Missouri
 
 {% capture text %}
 
-We will be at CVPR 2025.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 {%
   include button.html
