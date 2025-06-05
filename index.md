@@ -1,9 +1,9 @@
 ---
 ---
 
-# MAVIlab-Mizzou's Website
+# MAVI Lab at Mizzou
 
-An engaging 1-3 sentence description of your lab.
+MAVI Lab at University of Missouri 
 
 {% include section.html %}
 
@@ -11,7 +11,7 @@ An engaging 1-3 sentence description of your lab.
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We will be at CVPR 2025.
 
 {%
   include button.html
