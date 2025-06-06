@@ -5,6 +5,6 @@
 
   # MAVIlab-Mizzou's Website
 
-  Visit **[mavilab.net](http://mavilab.net)** 🚀
+  Visit **[mavilab-mizzou.github.io](https://mavilab-mizzou.github.io)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
